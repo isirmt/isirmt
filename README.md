@@ -11,8 +11,7 @@
 - Avoid The Beam - [link(GitHub)](https://github.com/isirmt/AvoidTheBeam)
 - And More...?
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=isirmt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirmt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirmt&langs_count=8&layout=compact)
 
 - - - 
 
