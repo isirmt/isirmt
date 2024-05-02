@@ -1,7 +1,10 @@
-![](https://itomiri.com/img/miri-home-thum.png "ItoMiriBanner")
-[https://itomiri.com/](https://itomiri.com/)
+![](https://works.itomiri.com/ogp_bg_default.png "ItoMiriBanner")
+[https://works.itomiri.com](https://works.itomiri.com/)
 
 # isirmt - GitHub
+
+- [isirmt(https://me.itomiri.com/)](https://me.itomiri.com/)
+- [ミリワークス(https://works.itomiri.com)](https://works.itomiri.com)
 
 ## Created Application
 - Game Launcher - [link(GitHub)](https://github.com/KCCTdensan/GameLauncher)
@@ -18,10 +21,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirmt&langs_count=8&layout=compact)
 
 - - - 
-
-Works
-- [isirmt(https://me.itomiri.com/)](https://me.itomiri.com/)
-- [ミリワークス(https://works.itomiri.com)](https://works.itomiri.com)
 
 X(Twitter)
 - [@ItoMiri](https://twitter.com/ItoMiri)
