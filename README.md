@@ -19,7 +19,7 @@
 - [**ブログもち**](https://blog.isirmt.com/) - [link(GitHub)](https://github.com/isirmt/NextjsBlogWithGitPAT) : Next.js 14 & GitHub API
 - And More...?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirmt&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isirmt&layout=donut)
 
 - - - 
 
