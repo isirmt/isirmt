@@ -3,6 +3,8 @@
 
 # isirmt - GitHub
 
+![isirmt's GitHub stats](https://github-readme-stats.vercel.app/api?username=isirmt)
+
 - [isirmt(https://me.itomiri.com/)](https://me.itomiri.com/)
 - [ミリワークス(https://works.itomiri.com)](https://works.itomiri.com)
 
