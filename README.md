@@ -1,5 +1,5 @@
-![](https://works.itomiri.com/ogp_bg_default.png "ItoMiriBanner")
-[https://works.itomiri.com](https://works.itomiri.com/)
+![](https://itomiri.com/opengraph-image.png "ItoMiriBanner")
+<https://itomiri.com/>
 
 # isirmt - GitHub
 
