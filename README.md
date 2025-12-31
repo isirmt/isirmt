@@ -1,12 +1,11 @@
-![](https://itomiri.com/opengraph-image.png "ItoMiriBanner")
-<https://itomiri.com/>
+![](https://isirmt.com/opengraph-image.png "ItoMiriBanner")
+<https://isirmt.com/>
 
 # isirmt - GitHub
 
 ![isirmt's GitHub stats](https://github-readme-stats.vercel.app/api?username=isirmt)
 
-- [isirmt(https://me.itomiri.com/)](https://me.itomiri.com/)
-- [ミリワークス(https://works.itomiri.com)](https://works.itomiri.com)
+- [井筒ミリ(itomiri)(https://itomiri.com/)](https://itomiri.com/)
 
 ## Created Application
 - Game Launcher - [link(GitHub)](https://github.com/KCCTdensan/GameLauncher)
