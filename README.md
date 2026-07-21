@@ -7,6 +7,8 @@
 
 - [井筒ミリ(itomiri)(https://itomiri.com/)](https://itomiri.com/)
 
+![My Skills](https://skillicons.dev/icons?i=vercel,docker,figma,ai,ps,cpp,html,css,ts,nextjs,rails,p5js,pytorch,postgres&perline=10)
+
 ## Created Application
 - Game Launcher - [link(GitHub)](https://github.com/KCCTdensan/GameLauncher)
 - Change Seats - [link(GitHub)](https://github.com/isirmt/ChangeSeatProcessing)
